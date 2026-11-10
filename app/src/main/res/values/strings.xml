@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">محدد الموقع</string>
+
+    <string name="search_hint">اسم مكان أو إحداثيات (24.7136, 46.6753)</string>
+    <string name="search">بحث</string>
+    <string name="btn_start">تشغيل (Set)</string>
+    <string name="btn_stop">إيقاف</string>
+    <string name="btn_save_fav">★ حفظ في المفضلة</string>
+    <string name="btn_favs">المفضلة</string>
+
+    <string name="status_none">اضغط على الخريطة لاختيار موقع</string>
+    <string name="status_selected">الموقع المختار: %1$s</string>
+    <string name="status_running">● الموقع الوهمي شغّال: %1$s</string>
+
+    <string name="notif_title">الموقع الوهمي شغّال</string>
+    <string name="notif_text">الإحداثيات: %1$s</string>
+    <string name="notif_stop">إيقاف</string>
+    <string name="channel_name">الموقع الوهمي</string>
+
+    <string name="toast_pick_first">اختر موقع على الخريطة أولاً</string>
+    <string name="toast_not_found">ما لقيت المكان</string>
+    <string name="toast_search_failed">فشل البحث، تأكد من الاتصال بالإنترنت</string>
+    <string name="toast_fav_saved">تم الحفظ في المفضلة</string>
+    <string name="toast_fav_deleted">تم الحذف</string>
+    <string name="toast_perm_needed">لازم تعطي صلاحية الموقع عشان يشتغل التطبيق</string>
+    <string name="toast_stopped">تم الإيقاف، رجع جهازك لموقعه الحقيقي</string>
+
+    <string name="dlg_fav_name_title">اسم المكان</string>
+    <string name="dlg_fav_name_hint">مثلاً: البيت</string>
+    <string name="dlg_favs_title">المفضلة (اضغط للاختيار، اضغط مطولاً للحذف)</string>
+    <string name="dlg_favs_empty">ما عندك أماكن محفوظة</string>
+
+    <string name="dlg_mock_title">فعّل تطبيق الموقع الوهمي</string>
+    <string name="dlg_mock_msg">عشان يشتغل التطبيق لازم تختاره كتطبيق موقع وهمي:\n\n1) فعّل خيارات المطور (الإعدادات ← حول الهاتف ← اضغط على رقم الإصدار 7 مرات)\n2) افتح خيارات المطور ← اختيار تطبيق الموقع الوهمي (Select mock location app)\n3) اختر هذا التطبيق\n\nبعدها ارجع واضغط تشغيل.</string>
+    <string name="dlg_open_dev">فتح خيارات المطور</string>
+
+    <string name="save">حفظ</string>
+    <string name="cancel">إلغاء</string>
+    <string name="close">إغلاق</string>
+</resources>
